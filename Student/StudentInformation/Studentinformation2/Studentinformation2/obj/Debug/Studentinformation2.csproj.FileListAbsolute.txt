@@ -1,0 +1,5 @@
+D:\Student\StudentInformation\Studentinformation2\Studentinformation2\obj\Debug\Studentinformation2.csproj.AssemblyReference.cache
+D:\Student\StudentInformation\Studentinformation2\Studentinformation2\obj\Debug\access_img.Form1.resources
+D:\Student\StudentInformation\Studentinformation2\Studentinformation2\obj\Debug\Studentinformation2.Properties.Resources.resources
+D:\Student\StudentInformation\Studentinformation2\Studentinformation2\obj\Debug\Studentinformation2.csproj.GenerateResource.cache
+D:\Student\StudentInformation\Studentinformation2\Studentinformation2\obj\Debug\Studentinformation2.csproj.CoreCompileInputs.cache

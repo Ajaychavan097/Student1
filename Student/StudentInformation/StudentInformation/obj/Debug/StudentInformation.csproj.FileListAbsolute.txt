@@ -1,0 +1,8 @@
+D:\Student\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+D:\Student\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+D:\Student\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Form1.resources
+D:\Student\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+D:\Student\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.cache
+D:\Student\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+D:\Student\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+D:\Student\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
